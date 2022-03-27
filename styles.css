@@ -1,5 +1,9 @@
-.space-around{
- border: none;
- background-color: white;
- display: inline-block; 
+.battery{
+	border: none;
+    background-color: white;
+}
+
+.body{
+    display: flex;
+    justify-content: space-around;
 }
