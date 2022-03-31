@@ -5,37 +5,18 @@
     border: none;
     background-color: white;
 }
-
-.fa-battery-full{
+i:nth-child(1){
     font-size: 16px;
-    border: none;
-    background-color: white;
-    margin: 16px;
 }
-
-.fa-battery-three-quarters{
+i:nth-child(2){
     font-size: 32px;
-    border: none;
-    background-color: white;
-    margin: 16px;
 }
-
-.fa-battery-half{
+i:nth-child(3){
     font-size: 64px;
-    border: none;
-    background-color: white;
-    margin: 16px;
-
 }
-.fa-battery-quarter{
+i:nth-child(4){
     font-size: 128px;
-    border: none;
-    background-color: white;
-    margin: 16px;
 }
-
-.fa-battery-empty{
+i:nth-child(5){
     font-size: 256px;
-    border: none;
-    background-color: white;
 }
