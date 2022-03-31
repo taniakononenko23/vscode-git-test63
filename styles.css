@@ -24,12 +24,14 @@
     font-size: 64px;
     border: none;
     background-color: white;
+    margin: 16px;
 
 }
 .fa-battery-quarter{
     font-size: 128px;
     border: none;
     background-color: white;
+    margin: 16px;
 }
 
 .fa-battery-empty{
